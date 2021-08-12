@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="gKit">
+      <UniqueIdentifier>{94D7967C-800E-980D-29FB-7D101511140F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\gKit\app.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\app_camera.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\app_time.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\color.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\draw.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\envmap.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\gamepads.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\glcore.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\image.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\image_hdr.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\image_io.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\mat.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\materials.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\mesh.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\orbiter.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\program.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\quaternion.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\rgbe.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\text.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\texture.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\uniforms.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\vec.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\wavefront.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\widgets.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\gKit\window.h">
+      <Filter>gKit</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\gKit\app.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\app_camera.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\app_time.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\color.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\draw.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\envmap.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\gamepads.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\image.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\image_hdr.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\image_io.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\mat.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\mesh.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\orbiter.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\program.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\rgbe.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\text.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\texture.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\uniforms.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\vec.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\wavefront.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\widgets.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\gKit\window.cpp">
+      <Filter>gKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\shader_kit.cpp" />
+  </ItemGroup>
+</Project>
